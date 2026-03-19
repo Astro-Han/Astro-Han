@@ -1,10 +1,10 @@
-### Hi, I'm Yuhan 👋
+### AstroHan
 
-Finance professional contributing to open source with AI coding tools.
+Finance background. Building dev tools with Claude Code from Shanghai.
 
-**Active contributions** — merged PRs across [openclaw](https://github.com/openclaw/openclaw), [OpenViking](https://github.com/volcengine/OpenViking), [CodexBar](https://github.com/steipete/CodexBar), and other projects.
+**Projects**
+- [claude-lens](https://github.com/Astro-Han/claude-lens) — Know if you should keep pushing or ease off before hitting Claude Code's rate limit. Bash + jq, ~150 lines.
+- [quantclass-sync](https://github.com/Astro-Han/quantclass-sync) — QuantClass data sync for macOS (CLI + GUI)
+- [opencode-bell](https://github.com/Astro-Han/opencode-bell) — Terminal bell notifications for OpenCode
 
-**My projects**
-- [claude-lens](https://github.com/Astro-Han/claude-lens) — Claude Code statusline with pace tracking. Shows whether your quota usage rate is sustainable. Pure Bash + jq.
-- [quantclass-sync](https://github.com/Astro-Han/quantclass-sync) — QuantClass data sync tool for macOS (CLI + GUI)
-- [opencode-bell](https://github.com/Astro-Han/opencode-bell) — Privacy-friendly terminal bell notifications for OpenCode
+**Open source contributions** — [openclaw](https://github.com/openclaw/openclaw), [OpenViking](https://github.com/volcengine/OpenViking) (3 PRs), [CodexBar](https://github.com/steipete/CodexBar), [opencli](https://github.com/jackwener/opencli) (2 PRs)
