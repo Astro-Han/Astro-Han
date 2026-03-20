@@ -8,7 +8,5 @@ Finance · Building with AI tools, contributing back.
 - [opencode-bell](https://github.com/Astro-Han/opencode-bell) — Terminal bell notifications for OpenCode
 
 **Open source contributions**
-- [opencli](https://github.com/jackwener/opencli) — 7 merged PRs
-- [OpenViking](https://github.com/volcengine/OpenViking) — 3 merged PRs, listed in release notes
-- [openclaw](https://github.com/openclaw/openclaw) — 1 merged PR
-- [CodexBar](https://github.com/steipete/CodexBar) — 1 merged PR
+
+Early contributor to [opencli](https://github.com/jackwener/opencli). Also contributing to [OpenViking](https://github.com/volcengine/OpenViking), [openclaw](https://github.com/openclaw/openclaw), and [CodexBar](https://github.com/steipete/CodexBar).
