@@ -9,4 +9,4 @@ Finance · Building with AI tools, contributing back.
 
 **Open source contributions**
 
-\#2 contributor to [opencli](https://github.com/jackwener/opencli). Also contributing to [OpenViking](https://github.com/volcengine/OpenViking), [CodexBar](https://github.com/steipete/CodexBar), [openclaw](https://github.com/openclaw/openclaw), and [openclaw-lark](https://github.com/larksuite/openclaw-lark).
+Early contributor to [opencli](https://github.com/jackwener/opencli). Also contributing to [OpenViking](https://github.com/volcengine/OpenViking), [CodexBar](https://github.com/steipete/CodexBar), [openclaw](https://github.com/openclaw/openclaw), and [openclaw-lark](https://github.com/larksuite/openclaw-lark).
