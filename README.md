@@ -6,7 +6,7 @@ Finance background. Building developer tools, contributing to open source.
 
 ---
 
-**Projects**
+🔧 **Projects**
 
 [**claude-lens**](https://github.com/Astro-Han/claude-lens)
 Know your quota before you hit the wall. A pace-aware statusline for Claude Code.
@@ -16,7 +16,7 @@ Know your quota before you hit the wall. A pace-aware statusline for Claude Code
 
 ---
 
-**Open source contributions**
+🌐 **Open source contributions**
 
 Active contributor to [opencli](https://github.com/jackwener/opencli) since its early days.
 Also contributing to [OpenViking](https://github.com/volcengine/OpenViking), [CodexBar](https://github.com/steipete/CodexBar), [openclaw-lark](https://github.com/larksuite/openclaw-lark), and [openclaw](https://github.com/openclaw/openclaw).
