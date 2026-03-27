@@ -1,7 +1,6 @@
 ### AstroHan
 
 Finance background. Building developer tools, contributing to open source.
-35 merged PRs across 5 projects.
 
 **Currently** contributing to [opencli](https://github.com/jackwener/opencli) and maintaining [claude-lens](https://github.com/Astro-Han/claude-lens).
 
@@ -19,10 +18,5 @@ Know your quota before you hit the wall. A pace-aware statusline for Claude Code
 
 **Open source contributions**
 
-| Project | Merged PRs |
-|---------|:----------:|
-| [opencli](https://github.com/jackwener/opencli) | 25 |
-| [OpenViking](https://github.com/volcengine/OpenViking) | 3 |
-| [CodexBar](https://github.com/steipete/CodexBar) | 3 |
-| [openclaw-lark](https://github.com/larksuite/openclaw-lark) | 3 |
-| [openclaw](https://github.com/openclaw/openclaw) | 1 |
+Active contributor to [opencli](https://github.com/jackwener/opencli) since its early days.
+Also contributing to [OpenViking](https://github.com/volcengine/OpenViking), [CodexBar](https://github.com/steipete/CodexBar), [openclaw-lark](https://github.com/larksuite/openclaw-lark), and [openclaw](https://github.com/openclaw/openclaw).
