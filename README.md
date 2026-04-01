@@ -2,7 +2,7 @@
 
 Finance background. Building developer tools, contributing to open source.
 
-**Currently** contributing to [opencli](https://github.com/jackwener/opencli) and maintaining [claude-pace](https://github.com/Astro-Han/claude-pace).
+**Currently** building [diffpane](https://github.com/Astro-Han/diffpane) and contributing to [opencli](https://github.com/jackwener/opencli).
 
 ---
 
