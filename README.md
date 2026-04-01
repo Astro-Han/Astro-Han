@@ -2,13 +2,16 @@
 
 Finance background. Building developer tools, contributing to open source.
 
-**Currently** contributing to [opencli](https://github.com/jackwener/opencli) and maintaining [claude-lens](https://github.com/Astro-Han/claude-lens).
+**Currently** contributing to [opencli](https://github.com/jackwener/opencli) and maintaining [claude-pace](https://github.com/Astro-Han/claude-pace).
 
 ---
 
 🔧 **Projects**
 
-[**claude-lens**](https://github.com/Astro-Han/claude-lens)
+[**diffpane**](https://github.com/Astro-Han/diffpane)
+Real-time TUI diff viewer for AI coding agents. See what your agent changes as it happens.
+
+[**claude-pace**](https://github.com/Astro-Han/claude-pace)
 Know your quota before you hit the wall. A pace-aware statusline for Claude Code.
 
 [quantclass-sync](https://github.com/Astro-Han/quantclass-sync) - data sync for QuantClass
