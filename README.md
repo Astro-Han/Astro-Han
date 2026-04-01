@@ -8,14 +8,14 @@ Finance background. Building developer tools, contributing to open source.
 
 🔧 **Projects**
 
-[**diffpane**](https://github.com/Astro-Han/diffpane)
+🖥️ [**diffpane**](https://github.com/Astro-Han/diffpane)
 Real-time TUI diff viewer for AI coding agents. See what your agent changes as it happens.
 
-[**claude-pace**](https://github.com/Astro-Han/claude-pace)
+⏱️ [**claude-pace**](https://github.com/Astro-Han/claude-pace)
 Know your quota before you hit the wall. A pace-aware statusline for Claude Code.
 
-[quantclass-sync](https://github.com/Astro-Han/quantclass-sync) - data sync for QuantClass
-[opencode-bell](https://github.com/Astro-Han/opencode-bell) - terminal bell for OpenCode
+🔄 [quantclass-sync](https://github.com/Astro-Han/quantclass-sync) - data sync for QuantClass
+🔔 [opencode-bell](https://github.com/Astro-Han/opencode-bell) - terminal bell for OpenCode
 
 ---
 
