@@ -2,18 +2,19 @@
 
 Finance background. Building developer tools, contributing to open source.
 
-**Currently** building [diffpane](https://github.com/Astro-Han/diffpane) and contributing to [opencli](https://github.com/jackwener/opencli).
+**Currently** building [claude-pace](https://github.com/Astro-Han/claude-pace) and [karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki). Contributing to [opencli](https://github.com/jackwener/opencli).
 
 ---
 
 🔧 **Projects**
 
-🖥️ [**diffpane**](https://github.com/Astro-Han/diffpane)
-Real-time TUI diff viewer for AI coding agents. See what your agent changes as it happens.
-
 ⏱️ [**claude-pace**](https://github.com/Astro-Han/claude-pace)
 Know your quota before you hit the wall. A pace-aware statusline for Claude Code.
 
+📚 [**karpathy-llm-wiki**](https://github.com/Astro-Han/karpathy-llm-wiki)
+One skill to build your own Karpathy-style LLM wiki.
+
+🖥️ [diffpane](https://github.com/Astro-Han/diffpane) - real-time TUI diff viewer for AI coding agents
 🔄 [quantclass-sync](https://github.com/Astro-Han/quantclass-sync) - data sync for QuantClass
 🔔 [opencode-bell](https://github.com/Astro-Han/opencode-bell) - terminal bell for OpenCode
 
