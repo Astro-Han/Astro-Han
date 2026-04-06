@@ -15,7 +15,9 @@ Know your quota before you hit the wall. A pace-aware statusline for Claude Code
 One skill to build your own Karpathy-style LLM wiki.
 
 🖥️ [diffpane](https://github.com/Astro-Han/diffpane) - real-time TUI diff viewer for AI coding agents
+
 🔄 [quantclass-sync](https://github.com/Astro-Han/quantclass-sync) - data sync for QuantClass
+
 🔔 [opencode-bell](https://github.com/Astro-Han/opencode-bell) - terminal bell for OpenCode
 
 ---
