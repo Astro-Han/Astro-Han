@@ -1,18 +1,23 @@
 ### AstroHan
 
-Finance background. Building developer tools, contributing to open source.
+Finance background. Building open-source AI agents.
 
-**Currently** building [claude-pace](https://github.com/Astro-Han/claude-pace) and [karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki). Contributing to [opencli](https://github.com/jackwener/opencli).
+**Currently** building [PawWork](https://github.com/Astro-Han/pawwork), an AI workstation that works out of the box. Download, open, get to work.
 
 ---
 
-🔧 **Projects**
+🐾 **Main project**
 
-⏱️ [**claude-pace**](https://github.com/Astro-Han/claude-pace)
-Know your quota before you hit the wall. A pace-aware statusline for Claude Code.
+[**PawWork**](https://github.com/Astro-Han/pawwork)
+AI workstation for non-technical knowledge workers. Built-in tools, scenario-driven workflows, zero setup. Electron + SolidJS, MIT license.
 
-📚 [**karpathy-llm-wiki**](https://github.com/Astro-Han/karpathy-llm-wiki)
-One skill to build your own Karpathy-style LLM wiki.
+---
+
+🔧 **Other projects**
+
+⏱️ [**claude-pace**](https://github.com/Astro-Han/claude-pace) - pace-aware statusline for Claude Code
+
+📚 [**karpathy-llm-wiki**](https://github.com/Astro-Han/karpathy-llm-wiki) - build your own Karpathy-style LLM wiki
 
 🖥️ [diffpane](https://github.com/Astro-Han/diffpane) - real-time TUI diff viewer for AI coding agents
 
