@@ -1,15 +1,15 @@
 ### AstroHan
 
-Finance background. Building open-source AI agents.
+Finance background. Building open-source AI agents for real work.
 
-**Currently** building [PawWork](https://github.com/Astro-Han/pawwork), an AI workstation that works out of the box. Download, open, get to work.
+**Currently** building [PawWork](https://github.com/Astro-Han/pawwork), an open-source alternative to Codex App and Claude Desktop for everyday desktop work.
 
 ---
 
 🐾 **Main project**
 
 [**PawWork**](https://github.com/Astro-Han/pawwork)
-AI workstation for non-technical knowledge workers. Built-in tools, scenario-driven workflows, zero setup. Electron + SolidJS, MIT license.
+Open-source desktop AI agent for coding and non-coding tasks. It helps with local files, documents, spreadsheets, writing, research, small apps, PR reviews, and debugging. Download, open, choose a workspace, and start with the built-in Zen free model or BYOK for Claude, GPT, Gemini, GLM, and more. Electron + SolidJS, Apache 2.0 license.
 
 ---
 
