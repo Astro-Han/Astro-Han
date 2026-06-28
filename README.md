@@ -1,33 +1,27 @@
-### AstroHan
+### Yuhan Lei
 
-Finance background. Building open-source AI agents for real work.
-
-**Currently** building [PawWork](https://github.com/Astro-Han/pawwork), an open-source alternative to Codex App and Claude Desktop for everyday desktop work.
+Building local-first desktop AI agents and agent harness tooling.
 
 ---
 
-🐾 **Main project**
+#### Agent harnesses
 
-[**PawWork**](https://github.com/Astro-Han/pawwork)
-Open-source desktop AI agent for coding and non-coding tasks. It helps with local files, documents, spreadsheets, writing, research, small apps, PR reviews, and debugging. Download, open, choose a workspace, and start with the built-in Zen free model or BYOK for Claude, GPT, Gemini, GLM, and more. Electron + SolidJS, Apache 2.0 license.
+[**Maka**](https://github.com/maka-agent/maka-agent) · 320+ stars · core contributor
+Local-first desktop AI agent. Working on runtime context pruning, model adapters, and headless quality validation. Org member, 100+ commits.
 
----
+[**opencli**](https://github.com/jackwener/opencli) · 25k+ stars · core contributor
+AI-native browser automation and web data extraction runtime.
 
-🔧 **Other projects**
+[**PawWork**](https://github.com/Astro-Han/pawwork) · author
+Open-source desktop AI agent for non-developers. BYOK with 75+ providers, local models, Office files. No terminal needed.
 
-⏱️ [**claude-pace**](https://github.com/Astro-Han/claude-pace) - pace-aware statusline for Claude Code
+#### Agent ecosystem
 
-📚 [**karpathy-llm-wiki**](https://github.com/Astro-Han/karpathy-llm-wiki) - build your own Karpathy-style LLM wiki
+[**karpathy-llm-wiki**](https://github.com/Astro-Han/karpathy-llm-wiki) · 1.2k stars
+Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Knowledge base builder from raw sources with citations and linting.
 
-🖥️ [diffpane](https://github.com/Astro-Han/diffpane) - real-time TUI diff viewer for AI coding agents
+[**claude-pace**](https://github.com/Astro-Han/claude-pace) · 210+ stars
+Pace-aware statusline and rate limit tracker for Claude Code. Pure Bash + jq, single file.
 
-🔄 [quantclass-sync](https://github.com/Astro-Han/quantclass-sync) - data sync for QuantClass
-
-🔔 [opencode-bell](https://github.com/Astro-Han/opencode-bell) - terminal bell for OpenCode
-
----
-
-🌐 **Open source contributions**
-
-Active contributor to [opencli](https://github.com/jackwener/opencli) since its early days.
-Also contributing to [OpenViking](https://github.com/volcengine/OpenViking), [CodexBar](https://github.com/steipete/CodexBar), [openclaw-lark](https://github.com/larksuite/openclaw-lark), and [openclaw](https://github.com/openclaw/openclaw).
+[**diffpane**](https://github.com/Astro-Han/diffpane)
+Real-time TUI diff viewer for AI coding agents.
