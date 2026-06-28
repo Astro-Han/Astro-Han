@@ -5,8 +5,6 @@
   </samp>
 </p>
 
-<h3 align="center">Yuhan Lei</h3>
-
 <p align="center">
   Building local-first desktop AI agents and agent harness tooling.
 </p>
