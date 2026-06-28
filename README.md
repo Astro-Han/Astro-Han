@@ -1,6 +1,6 @@
 Building local-first desktop AI agents and agent harness tooling.
 
-[email](mailto:lei.yuhan@outlook.com) · [github](https://github.com/Astro-Han) · [x](https://x.com/AstroHanRay)
+[github](https://github.com/Astro-Han) · [x](https://x.com/AstroHanRay)
 
 ---
 
