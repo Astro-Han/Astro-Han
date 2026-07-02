@@ -1,6 +1,6 @@
 Building local-first desktop AI agents and agent harness tooling.
 
-[github](https://github.com/Astro-Han) · [x](https://x.com/AstroHanRay)
+[x](https://x.com/AstroHanRay)
 
 ---
 
