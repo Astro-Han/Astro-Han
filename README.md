@@ -6,10 +6,10 @@ Building local-first desktop AI agents and agent harness tooling.
 
 ### Agent harnesses
 
-🤖 **[Maka](https://github.com/maka-agent/maka-agent)** — 320+ stars · core contributor
+🤖 **[Maka](https://github.com/maka-agent/maka-agent)**
 <br>Local-first desktop AI agent. Runtime context pruning, model adapters, headless quality validation. Org member, 100+ commits.
 
-🌐 **[opencli](https://github.com/jackwener/opencli)** — 25k+ stars · core contributor
+🌐 **[opencli](https://github.com/jackwener/opencli)**
 <br>AI-native browser automation and web data extraction runtime.
 
 🐾 **[PawWork](https://github.com/Astro-Han/pawwork)** — author
@@ -19,10 +19,10 @@ Building local-first desktop AI agents and agent harness tooling.
 
 ### Agent ecosystem
 
-📚 **[karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki)** — 1.2k stars
+📚 **[karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki)**
 <br>Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex.
 
-⏱️ **[claude-pace](https://github.com/Astro-Han/claude-pace)** — 210+ stars
+⏱️ **[claude-pace](https://github.com/Astro-Han/claude-pace)**
 <br>Statusline and rate limit tracker for Claude Code. Bash + jq, single file.
 
 🖥️ **[diffpane](https://github.com/Astro-Han/diffpane)**
