@@ -1,0 +1,17 @@
+{
+  "name": "astro-han profile README",
+  "install": "bash .cursor/install.sh",
+  "terminals": [
+    {
+      "name": "grip-preview",
+      "command": "export PATH=\"$HOME/.local/bin:$PATH\" && grip README.md 0.0.0.0:6419",
+      "description": "GitHub-flavored Markdown preview of README.md at http://localhost:6419"
+    }
+  ],
+  "ports": [
+    {
+      "name": "grip preview",
+      "port": 6419
+    }
+  ]
+}
