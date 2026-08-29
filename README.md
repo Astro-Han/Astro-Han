@@ -1,4 +1,4 @@
-Building local-first desktop AI agents and agent harness tooling.
+Building AI agents and agent harness tooling.
 
 [x](https://x.com/AstroHanRay)
 
